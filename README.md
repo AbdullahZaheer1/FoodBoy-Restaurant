@@ -22,6 +22,6 @@ Thankyou.
 **GitHub** - https://github.com/AbdullahZaheer1
 
 # Output
-![Image](https://github.com/AbdullahZaheer1/FoodBoy-Restaurant/blob/main/Website%20Front%20Page%20.png?raw=true)
+![Image](https://github.com/AbdullahZaheer1/FoodBoy-Restaurant/blob/main/Website%20Front%20Page.png?raw=true)
 
 
